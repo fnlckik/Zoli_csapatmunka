@@ -1,5 +1,6 @@
 def beolvas():
-    ...
+    a = input("Negyzet oldala:")
+    return a
 
 def terulet(a):
     ...
